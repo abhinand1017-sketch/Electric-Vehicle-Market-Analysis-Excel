@@ -104,11 +104,11 @@ Based on the dashboard's displayed indicators and visualizations:
 
 ## 🖼️ Dashboard Preview
 
-Add your dashboard screenshot to the repository using the filename `dashboard.png`.
+Add your dashboard screenshot to the repository using the filename `Electric Vehicle Market Analysis Dashboard.png`.
 
 Then display it here:
 
-![Electric Vehicle Market Analysis Dashboard](dashboard.png)
+[![Electric Vehicle Market Analysis Dashboard](dashboard.png)](https://github.com/abhinand1017-sketch/Electric-Vehicle-Market-Analysis-Excel/blob/main/EV%20MARKET%20ANALYSIS%20DASHBOARD.png)
 
 ## 📁 Repository Structure
 
