@@ -116,14 +116,14 @@ Then display it here:
 electric-vehicle-market-analysis/
 │
 ├── README.md
-├── dashboard.png
-└── ev_market_analysis.xlsx
+├── EV MARKET ANALYSIS DASHBOARD.png
+└── ev_market_2026 project.xlsx
 ```
 
 **Files:**
 
 * `README.md` — Project documentation.
-* `dashboard.png` — Dashboard screenshot.
+* `EV MARKET ANALYSIS DASHBOARD.png` — Dashboard screenshot.
 * `ev_market_analysis.xlsx` — Excel workbook containing the dashboard and analysis.
 
 *Update the filenames above to match the files you actually upload.*
